@@ -24,9 +24,6 @@ class Notepad:
   
     def __init__(self,**kwargs):
   
-        # Set icon
-        try:
-                self.__root.wm_iconbitmap("Notepad.ico") 
         except:
                 pass
   
