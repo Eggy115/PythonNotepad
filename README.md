@@ -1,6 +1,6 @@
 # PythonNotepad
 
-Notepad made in Python with Tkinter.
+Notepad made in Python with Tkinter (and some other things). It *is* a .pyw, but that is just so the console window doesn't come up (you don't need it anyway).
 
 Help just displays basic help.
 
