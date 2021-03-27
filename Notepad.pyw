@@ -24,9 +24,7 @@ class Notepad:
   
     def __init__(self,**kwargs):
   
-        except:
-                pass
-  
+
         # Set window size (the default is 300x300)
   
         try:
